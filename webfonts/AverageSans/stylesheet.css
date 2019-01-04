@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'AverageSans';
+	src: url('average-sans.regular-webfont.eot');
+	src: url('average-sans.regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('average-sans.regular-webfont.woff') format('woff'),
+		url('average-sans.regular-webfont.ttf') format('truetype'),
+		url('average-sans.regular-webfont.svg') format('svg');
+}

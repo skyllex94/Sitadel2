@@ -1,0 +1,87 @@
+.body {
+	width:90%;
+	}
+	.mainheader nav {
+	margin: 0%;
+}
+
+.mainheader nav ul {
+	padding-left: 0;
+}
+
+.mainheader nav ul li {
+}
+
+.mainheader nav a:link, .mainheader nav a:visited {
+}
+
+#maintitle #logo a img {
+	display: none;
+}
+
+.Content {
+	width: 100%;
+	float:left;
+}
+.post-info {
+	display:none;
+}
+.topContent {
+	margin-top: 2%;
+	margin-bottom: 3%;
+}
+
+.bottomContent {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+.TopSideBar {
+	width: 96%;
+	float:left;
+	padding: 2% 2%;
+	background-color: #FFF;
+	border-radius: 5px;
+	margin:0 0 0 0;
+}
+
+
+.MiddleSideBar {
+	width: 96%;
+	float:left;
+	margin: 2.5% 0 0 0;
+	padding: 2% 2%;
+	background-color: #FFF;
+	border-radius: 5px;
+}
+.BottomSideBar {
+	width: 96%;
+	float:left;
+	margin: 2.5% 0 0 0;
+	padding: 2% 2%;
+	background-color: #FFF;
+	border-radius: 5px;
+	
+}#maintitle #titlename h2 {
+	font-size: 25px;
+}
+#maintitle #logo {
+	float: left;
+	width: 0%;
+	height: auto;
+}
+#maintitle #social {
+	float: right;
+	width: 40%;
+}
+#maintitle #titlename {
+	float: left;
+	width: 60%;
+}
+.MiddleSideBar article #SideImages img {
+	background-position: center;
+	padding: 1% 0%;
+}
+.MiddleSideBar article #SideImages hr {
+	display: none;
+}

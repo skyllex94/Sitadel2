@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Seaside';
+	src: url('seasrn__-webfont.eot');
+	src: url('seasrn__-webfont.eot?#iefix') format('embedded-opentype'),
+		url('seasrn__-webfont.woff') format('woff'),
+		url('seasrn__-webfont.ttf') format('truetype'),
+		url('seasrn__-webfont.svg') format('svg');
+}

@@ -1,0 +1,126 @@
+.body {
+	width:90%;
+	}
+.body .slideshow .Content .bottomContent header h2 {
+	width: auto;
+}
+
+	.mainheader nav {
+	height:280px;
+	margin: 0%;
+}
+
+.mainheader nav ul {
+	padding-left: 0;
+}
+
+.mainheader nav ul li {
+	width: 100%;
+	text-align: center;
+}
+
+.mainheader nav a:link, .mainheader nav a:visited {
+	padding: 10px 10px;
+	height: 20px;
+	display: block;
+}
+
+.Content {
+	width: 100%;
+	float:left;
+}
+.topContent content #quotes {
+	color: #666;
+	padding: 2%;
+	font-size: 17px;
+	font-style: oblique;
+}
+.post-info {
+	display:none;
+}
+.topContent {
+	margin-top: 2%;
+	margin-bottom: 3%;
+}
+
+.bottomContent {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+.TopSideBar {
+	width: 96%;
+	float:left;
+	padding: 2% 2%;
+	background-color: #FFF;
+	border-radius: 5px;
+	margin:0 0 0 1%;
+}
+
+
+.MiddleSideBar {
+	width: 96%;
+	float:left;
+	margin: 2.5% 0 0 1%;
+	padding: 2% 2%;
+	background-color: #FFF;
+	border-radius: 5px;
+}
+.BottomSideBar {
+	width: 96%;
+	float:left;
+	margin: 2.5% 0 0 1%;
+	padding: 2% 2%;
+	background-color: #FFF;
+	border-radius: 5px;
+	
+}
+.body #maintitle #social {
+	display: none;
+}
+#maintitle #logo a img {
+	display: none;
+}
+
+#maintitle #titlename h2 {
+	font-size: 25px;
+	width: 100%;
+}
+#maintitle #logo {
+	float: left;
+	width: 5%;
+	height: auto;
+}
+#maintitle #social {
+	float: right;
+	width: 10%;
+}
+#maintitle #titlename {
+	float: left;
+	width: 85%;
+}
+#maintitle {
+	clear: both;
+	height: 100px;
+}
+.MiddleSideBar article #SideImages img {
+	background-position: center;
+	padding: 1% 0%;
+}
+.MiddleSideBar article #SideImages hr {
+	display: none;
+}.mainContent .Content .training1 p {
+	display: none;
+}
+.mainContent .Content .training2 p {
+	display: none;
+}
+.mainContent .Content .training3 p {
+	display: none;
+}
+.mainContent .Content .training4 p {
+	display: none;
+}
+.mainContent .Content .training5 p {
+	display: none;
+}

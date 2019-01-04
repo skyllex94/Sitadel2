@@ -1,0 +1,159 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+	margin:0 auto;
+	width:75%;
+	clear: both;
+}
+.mainheader nav {
+	background: #666;
+	height: 55px;
+	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	
+}
+
+.mainheader nav ul {
+	list-style:none;
+	margin:0 0;
+}
+
+.mainheader nav ul li {
+	float: left;
+	display: inline;
+}
+
+.mainheader nav a:link, .mainheader nav a:visited {
+	color: #FFF;
+	display: inline-block;
+	padding: 13px 16px;
+	height: 30px;
+}
+
+.mainheader nav a:hover, .mainheader nav a:active, .mainheader nav .active a:link, mainheader nav .active a:visited {
+	background-color: #CF5C3F;
+	text-shadow:none;
+}
+
+.mainContent {
+  float:none;
+}
+.Content {
+	width: 100%;
+	height:auto;
+	float:left;
+}
+
+.topContent {
+	background-color:#FFF;
+	padding: 2% 0;
+	margin-top: 1%;
+	
+}
+
+.bottomContent {
+	background-color:#FFF;
+	padding: 2% 4%;
+	margin-top: 2%;
+	
+}
+
+#img {
+	height: 84px;
+	width: 81px;
+}
+.body #h2 {
+	float: right;
+	clear: both;
+	height: 84px;
+	width: 284px;
+}
+#maintitle #logo {
+	float: left;
+	width: 8%;
+	height: auto;
+}
+#maintitle #social {
+	float: right;
+	width: 35%;
+}
+#maintitle #titlename {
+	float: left;
+	width: 47%;
+}
+
+#maintitle {
+	clear: both;
+	height: 115px;
+}
+
+#maintitle #titlename h2 {
+	color: #666;
+	padding-top: 18px;
+	padding-left: 10px;
+}
+#maintitle #logo a img {
+	padding: 10px;
+}
+.MiddleSideBar article #SideImages img {
+	max-width: 100%;
+    height: auto;
+}
+.mainContent .Content content p img {
+	max-width: 100%;
+	height: auto;
+}
+.mainContent .Content .training1 {
+	float: left;
+	height: auto;
+	width: 30%;
+	padding: 20px 1% 20px 3%;
+}
+.mainContent .Content .training2 {
+	float: left;
+	width: 30%;
+	height: auto;
+	padding: 20px 1%;
+}
+
+.mainContent .Content .training3 {
+	height: auto;
+	width: 30%;
+	float: left;
+	padding: 20px 1%;
+}
+
+.mainContent .Content .training4 {
+	float: left;
+	width: 46%;
+	height: auto;
+	padding: 0 1% 20px 3%;
+}
+.mainContent .Content .training5 {
+	height: auto;
+	width: 46%;
+	float: left;
+	padding: 0 1%;
+}
+.mainContent .Content .training1 img {
+	max-width: 100%;
+	height: auto;
+}
+.mainContent .Content .training2 img {
+	max-width: 100%;
+	height: auto;
+}
+.mainContent .Content .training3 img {
+	max-width: 100%;
+	height: auto;
+}
+.mainContent .Content .training4 img {
+	max-width: 100%;
+	height: auto;
+}
+.mainContent .Content .training5 img {
+	max-width: 100%;
+	height: auto;
+}
